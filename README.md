@@ -13,8 +13,6 @@ Objective: To analyze data, identify patterns and trends, answer business questi
 
 The dataset is used to explore trends, identify relationships, and derive meaningful insights.
 
-Source: [Add dataset source or download link]
-
 Format: CSV / Excel
 
 Description: [Briefly describe the dataset and its purpose]
